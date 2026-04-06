@@ -1192,37 +1192,6 @@ a {
 .cid-vfUg56AZpD .social-row {
   color: #ffffff;
 }
-.cid-vfYDU9CGgU .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vfYDU9CGgU .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background13.jpg");
-}
-.cid-vfYDU9CGgU .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 1rem;
-  margin-right: .7rem;
-}
-.cid-vfYDU9CGgU .social-row .soc-item .mbr-iconfont {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0.6rem;
-  border: 2px solid #232323;
-  transition: all 0.3s;
-  color: #232323;
-}
-.cid-vfYDU9CGgU .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
-  color: #ffffff;
-}
 .cid-vfUgzpLVTn {
   padding-top: 5rem;
   padding-bottom: 5rem;
