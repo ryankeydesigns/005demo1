@@ -1192,46 +1192,6 @@ a {
 .cid-vfUg56AZpD .social-row {
   color: #ffffff;
 }
-.cid-vfYDQ6C3yM {
-  display: flex;
-  background-image: url("../../../assets/images/background12.jpg");
-}
-.cid-vfYDQ6C3yM .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
-}
-.cid-vfYDQ6C3yM .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-vfYDQ6C3yM {
-    align-items: flex-end;
-  }
-  .cid-vfYDQ6C3yM .row {
-    justify-content: flex-start;
-  }
-  .cid-vfYDQ6C3yM .content-wrap {
-    width: 51%;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-vfYDQ6C3yM .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-vfYDQ6C3yM {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-vfYDQ6C3yM .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-vfYDQ6C3yM .content-wrap {
-    width: 100%;
-  }
-}
 .cid-vfYDU9CGgU .mbr-fallback-image.disabled {
   display: none;
 }
